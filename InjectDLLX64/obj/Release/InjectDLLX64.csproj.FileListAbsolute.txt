@@ -1,0 +1,10 @@
+D:\vs_projecgt\InjectDLLX64\bin\Release\InjectDLLX64.exe.config
+D:\vs_projecgt\InjectDLLX64\bin\Release\InjectDLLX64.exe
+D:\vs_projecgt\InjectDLLX64\bin\Release\InjectDLLX64.pdb
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.Inject.resources
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.Properties.Resources.resources
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.csproj.GenerateResource.cache
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.csproj.CoreCompileInputs.cache
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.exe
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.pdb
+D:\vs_projecgt\InjectDLLX64\obj\Release\InjectDLLX64.csproj.AssemblyReference.cache
